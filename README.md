@@ -1,5 +1,6 @@
 # E-ARK-Guidelines
-General guides for E-ARK CITS creation and GitHub use
+
+## General guides for E-ARK CITS creation and GitHub use
 This repository contains guidelines pertaing to a number of specifications and/or guidelines covering speciifc tools used for all specifications. 
 
 ## Guideline (Primer) for the Common Specification for Information Packages (CSIP), SIP, AIP, DIP, Preservation Metadata and Archival Information
